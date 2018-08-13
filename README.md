@@ -1,0 +1,1 @@
+# JAAGCoin-Core
