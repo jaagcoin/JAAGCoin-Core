@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/jaag_bg.qm</file>
+        <file alias="de">locale/jaag_de.qm</file>
+        <file alias="en">locale/jaag_en.qm</file>
+        <file alias="es">locale/jaag_es.qm</file>
+        <file alias="fi">locale/jaag_fi.qm</file>
+        <file alias="fr">locale/jaag_fr.qm</file>
+        <file alias="it">locale/jaag_it.qm</file>
+        <file alias="ja">locale/jaag_ja.qm</file>
+        <file alias="nl">locale/jaag_nl.qm</file>
+        <file alias="pl">locale/jaag_pl.qm</file>
+        <file alias="pt">locale/jaag_pt.qm</file>
+        <file alias="ru">locale/jaag_ru.qm</file>
+        <file alias="sk">locale/jaag_sk.qm</file>
+        <file alias="sv">locale/jaag_sv.qm</file>
+        <file alias="vi">locale/jaag_vi.qm</file>
+        <file alias="zh_CN">locale/jaag_zh_CN.qm</file>
+        <file alias="zh_TW">locale/jaag_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+usr/local/bin/jaag-qt usr/bin
+share/pixmaps/jaag32.xpm usr/share/pixmaps
+share/pixmaps/jaag16.xpm usr/share/pixmaps
+share/pixmaps/jaag128.png usr/share/pixmaps
+debian/jaag-qt.desktop usr/share/applications
+debian/jaag-qt.protocol usr/share/kde4/services/

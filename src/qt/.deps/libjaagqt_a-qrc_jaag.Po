@@ -1,0 +1,1 @@
+qt/libjaagqt_a-qrc_jaag.o: qt/qrc_jaag.cpp
